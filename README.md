@@ -6,4 +6,5 @@ Hello. I'm a super-lightweight theme called `Susty`. I have been built to demons
 
 The goals of this theme are outlined in a blog post entitled, [Delivering WordPress in 7KB](https://blog.jacklenox.com/2018/06/04/delivering-wordpress-in-7kb/).
 
-This is a seperate fork by easaw and will be larger than the 7KB stated as it has several adjustments and CSS Media Queries.
+
+### This is a seperate fork by easaw and will be larger than the 7KB stated as it has several adjustments and CSS Media Queries.
