@@ -13,7 +13,15 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-
+	<!— Chrome, Firefox OS and Opera —>
+<meta name="theme-color" content="#eee">
+<!— iOS Safari —>
+<meta name="apple-mobile-web-app-status-bar-style" content="#eee">
+<!— iOS Safari —>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!— Windows Phone —>
+<meta name="msapplication-navbutton-color" content="#eee">
 	<?php wp_head(); ?>
 </head>
 
