@@ -951,10 +951,23 @@ article > header > h1, article > header > h2 {
 	margin: 0 .5em 0 0;
 }
 
+/*
+* original susty CSS
 footer#colophon {
 	max-width: 69em;
 	margin: 3em auto;
 	text-align: center;
 	padding: 0 1em;
 	font-size: .75em;
+}
+*/
+footer#colophon {
+position:static;
+width:100%;
+bottom:0px;
+text-align:center;
+margin: 0 auto;
+padding: 1em 1em;
+font-size:0.75em;
+background-color:rgba(0,0,0,0.1);
 }
